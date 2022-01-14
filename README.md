@@ -1,4 +1,4 @@
-"# Blockchain" 
+"Ethereum DApp Project - Build Crypto Star DApp on Ethereum" 
 
 "Key Information"
 
